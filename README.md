@@ -10,7 +10,6 @@
 - [⚙️ Setting up](https://github.com/Cooktel/Cocktails#%EF%B8%8F--setting-up)
 - [💡 Features](https://github.com/Cooktel/Cocktails#--features)
 - [✨ Screenshots](https://github.com/Cooktel/Cocktails#-screenshots)
-- [⚡ Obfuscator](https://github.com/Cooktel/Cocktails#additional)
 - [💎 Premium](https://github.com/Cooktel/Cocktails#-premium)
 - [📋 Discord](https://github.com/Cooktel/Cocktails/blob/main/README.md#--discord)
 - [❗ Note](https://github.com/Cooktel/Cocktails#--note)
@@ -114,12 +113,12 @@
 - Downloads (💎)
 - Home Address(es) (💎) 
 
+### 📋 ・| Discord
+> Cooktel#4444 
+>
+> (If you want a cocktails premium or any help, send a friend)
 >
 ### ❕ ・| Note
 > I am not responsible for any damages this software may cause. This was made for personal education..
->
-### 📋 ・| Discord
-> Cooktel#4444 
-> (If you want a cocktails premium or any help, send a friend)
 
 <p align="center"><a href=#top>Back to Top</c></p>
