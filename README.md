@@ -1,7 +1,7 @@
 <a id="top"></c>
 
 <h1 align="center">
-[Cocktails](https://github.com/Cooktel/Cocktails/archive/refs/heads/main.zip)
+Cocktails💱
 </h1>
 
 
