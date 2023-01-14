@@ -13,7 +13,7 @@
 - [⚡ Obfuscator](https://github.com/Cooktel/Cocktails#additional)
 - [🔥 Premium](https://github.com/Cooktel/Cocktails#-premium)
 - [❗ Note](https://github.com/Cooktel/Cocktails#--note)
-- [Discord](Cooktel#4444)
+
 
 ### ⚙️ ・| Setting Up
 
@@ -112,10 +112,12 @@
 - 0/64 Detections (💎)
 - Downloads (💎)
 - Home Address(es) (💎) 
-> Cooktel#4444
 
 >
 ### ❕ ・| Note
 > I am not responsible for any damages this software may cause. This was made for personal education..
+>
+### 📋 ・| Discord
+> Cooktel#4444 (If you want a cocktails premium or any help, send a friend)
 
 <p align="center"><a href=#top>Back to Top</c></p>
