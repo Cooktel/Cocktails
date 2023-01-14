@@ -41,6 +41,21 @@
 > 💹 Guarda
 > ⚡ Coinomi
 
+#### Additional
+>
+> Internet connection check every 3 seconds before it starts stealing
+>
+> Ultra Obfuscation (use https://obfuscator.io)
+>
+> Anti-Debug
+>
+> Anti-VM
+>
+> Validates a found discord token and then sends it to your discord webhook
+>
+> Sends all files to your discord webhook in beautiful embeds and a structured zip file
+
+
 ### ✨・| Screenshots
 ###### ![obfcooktel](https://user-images.githubusercontent.com/121333872/212443664-bb9db3bc-57be-466d-82b9-ea7af7713f89.png)
 
