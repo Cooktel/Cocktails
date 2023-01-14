@@ -15,7 +15,7 @@ Cocktails💱
 - [❗ Note](https://github.com/Cooktel/Cocktails#--note)
 
 
-### ⚙️ ・| Setting Up
+### ⚙️ 〢 Setting Up
 
 > Install [Node.js](https://nodejs.org/en/download/) 
 > 
@@ -34,7 +34,7 @@ Cocktails💱
 > Note: Changing the icon does not work and will corrupt the exe
 
 -
-### 💡 ・| Features
+### 💡 〢 Features
 
 #### Stealer
 
@@ -74,11 +74,11 @@ Cocktails💱
 > Sends all files to your discord webhook in beautiful embeds and a structured zip file
 
 >
-### ✨・| Screenshots
+### ✨〢 Screenshots
 ###### ![obfcooktel](https://user-images.githubusercontent.com/121333872/212443664-bb9db3bc-57be-466d-82b9-ea7af7713f89.png)
 
 >
-### 💎・| Premium
+### 💎〢 Premium
 - Grabs Discord Token
 - Discord Password (even when it's changed)
 - IP Address (Public)
@@ -113,12 +113,12 @@ Cocktails💱
 - Downloads (💎)
 - Home Address(es) (💎) 
 
-### 📋 ・| Discord
+### 📋 〢 Discord
 > Cooktel#4444 
 >
 > (If you want a cocktails premium or any help, send a friend)
 >
-### ❕ ・| Note
+### ❕ 〢 Note
 > I am not responsible for any damages this software may cause. This was made for personal education..
 
 <p align="center"><a href=#top>Back to Top</c></p>
