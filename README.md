@@ -32,8 +32,8 @@ Cocktails💱
 > Run **_build.bat_** and wait for **_Cooktel-win.exe_** to be built.
 >
 > Note: Changing the icon does not work and will corrupt the exe
+>
 
--
 ### 💡 〢 Features
 
 #### Stealer
