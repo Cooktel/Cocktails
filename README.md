@@ -4,8 +4,8 @@
 - [💡 Features](https://github.com/Cooktel/Cocktails#--features)
 - [✨ Screenshots](https://github.com/Cooktel/Cocktails#-screenshots)
 - [⚡ Obfuscator](https://github.com/Cooktel/Cocktails#additional)
+- [🔥 Premium](https://github.com/Cooktel/Cocktails#-premium)
 - [❗ Note](https://github.com/Cooktel/Cocktails#--note)
-- [🔥 Premium]()
 
 ### ⚙️ ・| Setting Up
 
@@ -25,7 +25,7 @@
 >
 > Note: Changing the icon does not work and will corrupt the exe
 
-
+-
 ### 💡 ・| Features
 
 #### Stealer
@@ -50,6 +50,7 @@
 > 💹 Guarda
 > ⚡ Coinomi
 
+-
 #### Additional
 >
 > Internet connection check every 3 seconds before it starts stealing
@@ -64,10 +65,11 @@
 >
 > Sends all files to your discord webhook in beautiful embeds and a structured zip file
 
-
+>
 ### ✨・| Screenshots
 ###### ![obfcooktel](https://user-images.githubusercontent.com/121333872/212443664-bb9db3bc-57be-466d-82b9-ea7af7713f89.png)
 
+>
 ### 🔥・| Premium
 - Grabs Discord Token
 - Discord Password (even when it's changed)
@@ -104,6 +106,6 @@
 - Home Address(es) (💎) 
 > Cooktel#4444 (add_me)
 
-
+>
 ### ❕ ・| Note
 > I am not responsible for any damages this software may cause. This was made for personal education..
