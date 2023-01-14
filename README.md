@@ -13,7 +13,7 @@
 - [⚡ Obfuscator](https://github.com/Cooktel/Cocktails#additional)
 - [🔥 Premium](https://github.com/Cooktel/Cocktails#-premium)
 - [❗ Note](https://github.com/Cooktel/Cocktails#--note)
-- [Discord]()
+- [Discord](Cooktel#4444)
 
 ### ⚙️ ・| Setting Up
 
