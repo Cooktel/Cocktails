@@ -4,7 +4,7 @@
 - [💡 Features](https://github.com/Cooktel/Cocktails#--features)
 - [✨ Screenshots](https://github.com/Cooktel/Cocktails#-screenshots)
 - [⚡ obfuscator](https://github.com/Cooktel/Cocktails#additional)
-- [❗  Note](https://github.com/Cooktel/Cocktails#--note)
+- [❗   Note](https://github.com/Cooktel/Cocktails#--note)
 
 
 ### ⚙️ ・| Setting Up
