@@ -1,3 +1,10 @@
+<a id="top"></c>
+
+<h1 align="center">
+⚔️ Cocktails 🔥
+</h1>
+
+
 ## 🧐 〢 Content
 
 - [⚙️ Setting up](https://github.com/Cooktel/Cocktails#%EF%B8%8F--setting-up)
@@ -5,7 +12,8 @@
 - [✨ Screenshots](https://github.com/Cooktel/Cocktails#-screenshots)
 - [⚡ Obfuscator](https://github.com/Cooktel/Cocktails#additional)
 - [🔥 Premium](https://github.com/Cooktel/Cocktails#-premium)
-- [❗    Note](https://github.com/Cooktel/Cocktails#--note)
+- [❗ Note](https://github.com/Cooktel/Cocktails#--note)
+- [Discord]()
 
 ### ⚙️ ・| Setting Up
 
@@ -109,3 +117,5 @@
 >
 ### ❕ ・| Note
 > I am not responsible for any damages this software may cause. This was made for personal education..
+
+<p align="center"><a href=#top>Back to Top</c></p>
