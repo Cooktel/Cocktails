@@ -104,7 +104,7 @@
 - 0/64 Detections (💎)
 - Downloads (💎)
 - Home Address(es) (💎) 
-> Cooktel#4444 (add_me)
+> Cooktel#4444
 
 >
 ### ❕ ・| Note
