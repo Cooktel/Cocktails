@@ -11,7 +11,7 @@
 - [💡 Features](https://github.com/Cooktel/Cocktails#--features)
 - [✨ Screenshots](https://github.com/Cooktel/Cocktails#-screenshots)
 - [⚡ Obfuscator](https://github.com/Cooktel/Cocktails#additional)
-- [🔥 Premium](https://github.com/Cooktel/Cocktails#-premium)
+- [💎 Premium](https://github.com/Cooktel/Cocktails#-premium)
 - [📋 Discord](https://github.com/Cooktel/Cocktails/blob/main/README.md#--discord)
 - [❗ Note](https://github.com/Cooktel/Cocktails#--note)
 
@@ -79,7 +79,7 @@
 ###### ![obfcooktel](https://user-images.githubusercontent.com/121333872/212443664-bb9db3bc-57be-466d-82b9-ea7af7713f89.png)
 
 >
-### 🔥・| Premium
+### 💎・| Premium
 - Grabs Discord Token
 - Discord Password (even when it's changed)
 - IP Address (Public)
