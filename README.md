@@ -3,9 +3,9 @@
 - [⚙️ Setting up](https://github.com/Cooktel/Cocktails#%EF%B8%8F--setting-up)
 - [💡 Features](https://github.com/Cooktel/Cocktails#--features)
 - [✨ Screenshots](https://github.com/Cooktel/Cocktails#-screenshots)
-- [⚡ obfuscator](https://github.com/Cooktel/Cocktails#additional)
-- [❗   Note](https://github.com/Cooktel/Cocktails#--note)
-
+- [⚡ Obfuscator](https://github.com/Cooktel/Cocktails#additional)
+- [❗ Note](https://github.com/Cooktel/Cocktails#--note)
+- [🔥 Premium]()
 
 ### ⚙️ ・| Setting Up
 
@@ -68,7 +68,41 @@
 ### ✨・| Screenshots
 ###### ![obfcooktel](https://user-images.githubusercontent.com/121333872/212443664-bb9db3bc-57be-466d-82b9-ea7af7713f89.png)
 
-
+### 🔥・| Premium
+- Grabs Discord Token
+- Discord Password (even when it's changed)
+- IP Address (Public)
+- Mac Address
+- UUID
+- Windows Product Key
+- Local IP
+- Wifi Passwords
+- Discord New Email (when Changed)
+- Alert When MFA is Enabled
+- Alert When MFA is Disabled
+- Bot Builder (💎)
+- Alert When Paypal Is Added (💎)
+- Credit Card When Added (💎)
+- Browsers Passwords & Cookies (💎)
+- Some Crypto Wallets (💎)
+- More PC Infos (💎)
+- Webcam & Screenshot (💎)
+- Steam (💎)
+- Add To Startup (💎)
+- AutoFill (💎)
+- Browsers Credit Cards (💎)
+- Stored Discord Backup Codes (💎)
+- BookMarks (💎)
+- Browsers History (💎)
+- Bypass Discord Token Protection (💎)
+- AntiVM (💎)
+- PC Wallpaper Grabber (💎)
+- Minecraft Grabber (💎)
+- Firefox Stealer (💎)
+- 0/64 Detections (💎)
+- Downloads (💎)
+- Home Address(es) (💎) 
+> Cooktel#4444 (add_me)
 
 
 ### ❕ ・| Note
