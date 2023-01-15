@@ -22,7 +22,7 @@ Cocktails💱
 > 
 > This will take a few minutes because it will download up to 2 GB of data
 >
-> Install [Visual studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) with C++ compilers and all enabled (is a bit gigs but u wont have errors)
+> Install [Visual studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&source=VSLandingPage&cid=2029&workload=cplusplus) with C++ compilers and all enabled (is a bit gigs but u wont have errors)
 > 
 > Run **_install.bat_** file to install all necessary files
 >
