@@ -1,18 +1,17 @@
 <a id="top"></c>
 
+## 🧐 〢 Content
+
+- [⚙️ Setting up](https://github.com/Cooktel/Cocktails#-%E3%80%A2-content)
+- [💡 Features](https://github.com/Cooktel/Cocktails#-%E3%80%A2-features)
+- [✨ Screenshots](https://github.com/Cooktel/Cocktails#%E3%80%A2-screenshots)
+- [💎 Premium](https://github.com/Cooktel/Cocktails#%E3%80%A2-premium)
+- [📋 Discord](https://github.com/Cooktel/Cocktails#-%E3%80%A2-discord)
+- [❗ Note](https://github.com/Cooktel/Cocktails#-%E3%80%A2-note)
+
 <h1 align="center">
 Cocktails💱
 </h1>
-
-
-## 🧐 〢 Content
-
-- [⚙️ Setting up](https://github.com/Cooktel/Cocktails#%EF%B8%8F--setting-up)
-- [💡 Features](https://github.com/Cooktel/Cocktails#--features)
-- [✨ Screenshots](https://github.com/Cooktel/Cocktails#-screenshots)
-- [💎 Premium](https://github.com/Cooktel/Cocktails#-premium)
-- [📋 Discord](https://github.com/Cooktel/Cocktails/blob/main/README.md#--discord)
-- [❗ Note](https://github.com/Cooktel/Cocktails#--note)
 
 
 ### ⚙️ 〢 Setting Up
