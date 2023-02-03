@@ -1,8 +1,8 @@
-### 10$ ~ Add me 
+### Add me 
 ``Cooktel#7367``
 
 
-#### Cooktel ON TOP 
+
 ## Features
 - Grabs Discord Token
 - Discord Password (even when it's changed)
